@@ -1,0 +1,7 @@
+﻿  UDP_Client.cpp
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client\UDP_Client\UDP_Client.cpp(31,31): warning C4477: 'scanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'size_t'
+      C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client\UDP_Client\UDP_Client.cpp(31,31):
+      此引數可用為緩衝區大小
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client\UDP_Client\UDP_Client.cpp(32,27): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  UDP_Client.vcxproj -> C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client\UDP_Client\x64\Debug\UDP_Client.exe

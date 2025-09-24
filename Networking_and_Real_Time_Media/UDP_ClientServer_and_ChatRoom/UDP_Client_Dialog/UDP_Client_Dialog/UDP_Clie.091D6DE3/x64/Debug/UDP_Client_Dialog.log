@@ -1,0 +1,38 @@
+﻿  pch.cpp
+  UDP_Client_Dialog.cpp
+  UDP_Client_DialogDlg.cpp
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\TCPIP.h(197,35): warning C4101: 'Addr': 未參考的區域變數
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\TCPIP.h(198,12): warning C4101: 'HostIP': 未參考的區域變數
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\TCPIP.h(196,16): warning C4101: 'i': 未參考的區域變數
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\TCPIP.h(199,12): warning C4101: 'IP11': 未參考的區域變數
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\TCPIP.h(277,14): warning C4101: 'HostIP': 未參考的區域變數
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\TCPIP.h(276,19): warning C4101: 'i': 未參考的區域變數
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\TCPIP.h(278,12): warning C4101: 'IP11': 未參考的區域變數
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\TCPIP.h(382,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\UDP_Client_DialogDlg.cpp(184,43): warning C4477: 'sprintf_s' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'CString'
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\UDP_Client_DialogDlg.cpp(187,26): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\UDP_Client_DialogDlg.cpp(171,6): warning C4101: 'i': 未參考的區域變數
+  (編譯來源檔案 '/UDP_Client_DialogDlg.cpp')
+  
+  正在產生程式碼...
+  UDP_Client_Dialog.vcxproj -> C:\Users\kenny\Desktop\OOP\Lab8\UDP_Client_Dialog\UDP_Client_Dialog\x64\Debug\UDP_Client_Dialog.exe
